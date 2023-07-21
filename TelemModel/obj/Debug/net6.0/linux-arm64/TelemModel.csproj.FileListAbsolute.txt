@@ -1,0 +1,11 @@
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm64/TelemModel.deps.json
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm64/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm64/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm64/TelemModel.pdb
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.AssemblyInfoInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.AssemblyInfo.cs
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.csproj.CoreCompileInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm64/TelemModel.pdb

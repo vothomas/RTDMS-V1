@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/viceroy/projects/RTDMS-V1/RTDMS-driver/RTDMS-driver.csproj": {}
+  },
+  "projects": {
+    "/home/viceroy/projects/RTDMS-V1/RTDMS-driver/RTDMS-driver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/viceroy/projects/RTDMS-V1/RTDMS-driver/RTDMS-driver.csproj",
+        "projectName": "RTDMS-driver",
+        "projectPath": "/home/viceroy/projects/RTDMS-V1/RTDMS-driver/RTDMS-driver.csproj",
+        "packagesPath": "/home/viceroy/.nuget/packages/",
+        "outputPath": "/home/viceroy/projects/RTDMS-V1/RTDMS-driver/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/viceroy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj": {
+                "projectPath": "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IoT.Device.Bindings": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.42.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.120/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    },
+    "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj",
+        "projectName": "TelemModel",
+        "projectPath": "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj",
+        "packagesPath": "/home/viceroy/.nuget/packages/",
+        "outputPath": "/home/viceroy/projects/RTDMS-V1/TelemModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/viceroy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.120/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

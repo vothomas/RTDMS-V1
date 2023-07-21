@@ -1,0 +1,12 @@
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Release/net6.0/TelemModel.deps.json
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Release/net6.0/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Release/net6.0/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Release/net6.0/TelemModel.pdb
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.csproj.AssemblyReference.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.AssemblyInfoInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.AssemblyInfo.cs
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.csproj.CoreCompileInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Release/net6.0/TelemModel.pdb

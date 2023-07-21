@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBKQZdpKbBrKBc9q8sbTMQvcPWgVn7XV02IhwFroH0QtSDhImkvhTQ5o84LFtc5HqFzeecp242sU/ijEd5c53g==",
+  "success": true,
+  "projectFilePath": "/home/viceroy/projects/RTDMS-V1/TelemModel/TelemModel.csproj",
+  "expectedPackageFiles": [
+    "/home/viceroy/.nuget/packages/microsoft.netcore.app.runtime.linux-arm/6.0.20/microsoft.netcore.app.runtime.linux-arm.6.0.20.nupkg.sha512",
+    "/home/viceroy/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-arm/6.0.20/microsoft.aspnetcore.app.runtime.linux-arm.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

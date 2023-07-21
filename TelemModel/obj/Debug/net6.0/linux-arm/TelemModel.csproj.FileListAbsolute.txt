@@ -1,0 +1,12 @@
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm/TelemModel.deps.json
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/bin/Debug/net6.0/linux-arm/TelemModel.pdb
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.AssemblyInfoInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.AssemblyInfo.cs
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.csproj.CoreCompileInputs.cache
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/ref/TelemModel.dll
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.pdb
+/home/viceroy/projects/RTDMS-V1/TelemModel/obj/Debug/net6.0/linux-arm/TelemModel.csproj.AssemblyReference.cache
