@@ -36,6 +36,7 @@ namespace viceroy
             if (telemetryDataPoint.temperature > temperatureThreshold && DateTime.Now > nextEmailTime)
             {
                 await SendEmailNotification(telemetryDataPoint, log);
+                System.Diagnostics.Process.Start("https://maker.ifttt.com/trigger/temp_threshold/json/with/key/d5l_9YkBlKTsdMIx8uthtc");
             }
         }
 
