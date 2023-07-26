@@ -239,6 +239,18 @@ namespace viceroy
                     }
 
                     gpio.Write(LED_Pin, PinValue.Low);
+
+
+                    if (telem.Item1 >= 80 ){
+                        
+                        gpio.Write(HVAC_Pin, true);
+                        gpio.Write(LED_Pin, true);
+                    }
+                    else{
+                        gpio.Write(HVAC_Pin, false);
+                        gpio.Write(LED_Pin, false);
+                    }
+                    
                 }
 
                 // dispose of cancelation token, and instiate a new for next time the function runs
@@ -268,7 +280,7 @@ namespace viceroy
             {
                 // write message to both Console and LCD
                 Console.WriteLine($"{LCD_message}");
-                lcd_writer.WriteMessage(LCD_message);
+                
 
                 Thread.Sleep(5000);
             }
